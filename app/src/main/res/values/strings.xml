@@ -1,7 +1,7 @@
 <resources>
-    <string name="app_name">BoardingPass</string>
+    <string name="app_name">Boarding Pass</string>
     <string name="passenger_label">PASSENGER</string>
-    <string name="passenger_name">MR. JAMES BOND</string>
+    <string name="passenger_name">MR. Android Developer</string>
     <string name="origin_code">SFO</string>
     <string name="destination_code">LAX</string>
     <string name="flight_code">UDA 2465</string>
@@ -25,12 +25,5 @@
     </string>
     <string name="countDownFormat" >%1$02d:%2$02d</string>
     <string name="timeFormat">hh:mm a</string>
-    <string name="todo">TODO</string>
-    <string name="todo">TODO</string>
-    <string name="todo">TODO</string>
-    <string name="todo">TODO</string>
-    <string name="todo">TODO</string>
-    <string name="todo">TODO</string>
-    <string name="todo">TODO</string>
-    <string name="todo">TODO</string>
+
 </resources>
